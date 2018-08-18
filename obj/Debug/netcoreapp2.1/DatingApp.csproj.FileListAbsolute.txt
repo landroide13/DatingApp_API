@@ -1,0 +1,14 @@
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.deps.json
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.runtimeconfig.json
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.runtimeconfig.dev.json
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.dll
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/bin/Debug/netcoreapp2.1/DatingApp.pdb
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.csprojAssemblyReference.cache
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.csproj.CoreCompileInputs.cache
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.RazorAssemblyInfo.cache
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.RazorAssemblyInfo.cs
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.AssemblyInfoInputs.cache
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.AssemblyInfo.cs
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.RazorTargetAssemblyInfo.cache
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.dll
+/Users/landrade/Desktop/c#.net/AngularAPI/DatingApp/obj/Debug/netcoreapp2.1/DatingApp.pdb
